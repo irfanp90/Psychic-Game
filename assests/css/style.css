@@ -1,0 +1,20 @@
+body {
+  background-image: url("dark-paths.png");
+  color: yellow;
+
+  font-family: "Anton", sans-serif;
+  font-size: 30px;
+}
+h1 {
+  text-align: center;
+}
+
+.score {
+  width: 50%;
+  float: left;
+}
+
+.instruction {
+  width: 50%;
+  float: right;
+}
